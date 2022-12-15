@@ -1,0 +1,15 @@
+- ES7+ React/Redux/React-Native snippets
+- js snippets
+- Laravel Artisan
+- Laravel Blade Formatter
+- Laravel Blade snippets
+- Laravel Blade Spacer
+- Laravel Extra Intellisense
+- Laravel snippets
+- Live Server
+- Material icon Theme
+- PHP Intellisense
+- PHP Intlephense
+- PHPDoc Comment
+- Prettier
+- 
